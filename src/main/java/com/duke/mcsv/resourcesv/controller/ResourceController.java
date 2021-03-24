@@ -1,11 +1,11 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.controller;
+package com.duke.mcsv.resourcesv.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.talk2amareswaran.projects.springboot2resourceserver.model.CustomPrincipal;
+import com.duke.mcsv.resourcesv.model.CustomPrincipal;
 
 @RestController
 public class ResourceController {

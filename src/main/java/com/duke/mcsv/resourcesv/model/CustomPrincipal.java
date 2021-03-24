@@ -1,4 +1,4 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.model;
+package com.duke.mcsv.resourcesv.model;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.talk2amareswaran.projects.springboot2resourceserver;
+package com.duke.mcsv.resourcesv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

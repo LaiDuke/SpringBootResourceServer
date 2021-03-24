@@ -1,4 +1,4 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.config;
+package com.duke.mcsv.resourcesv.config;
 
 import javax.servlet.http.HttpServletResponse;
 

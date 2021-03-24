@@ -1,4 +1,4 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.util;
+package com.duke.mcsv.resourcesv.util;
 
 import java.util.Arrays;
 import java.util.Collection;

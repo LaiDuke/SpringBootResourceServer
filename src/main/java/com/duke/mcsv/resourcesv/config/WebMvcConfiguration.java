@@ -1,4 +1,4 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.config;
+package com.duke.mcsv.resourcesv.config;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import org.springframework.web.method.support.HandlerMethodArgumentResolver;
 import org.springframework.web.method.support.ModelAndViewContainer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-import com.talk2amareswaran.projects.springboot2resourceserver.model.CustomPrincipal;
+import com.duke.mcsv.resourcesv.model.CustomPrincipal;
 
 @Configuration
 @EnableWebSecurity

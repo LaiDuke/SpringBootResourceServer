@@ -1,17 +1,16 @@
-package com.talk2amareswaran.projects.springboot2resourceserver.util;
+package com.duke.mcsv.resourcesv.util;
 
 import java.util.Collection;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+import com.duke.mcsv.resourcesv.model.CustomPrincipal;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.oauth2.provider.token.UserAuthenticationConverter;
 import org.springframework.util.StringUtils;
-
-import com.talk2amareswaran.projects.springboot2resourceserver.model.CustomPrincipal;
 
 public class CustomUserAuthenticationConverter implements UserAuthenticationConverter  {
 
